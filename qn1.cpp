@@ -1,3 +1,4 @@
+//qn-You are given an integer sequence A with length N. Find the number of ordered pairs of positive integers (a,b) such that a occurs in A at least b times and b occurs in A at least a times
 #include<iostream>
 using namespace std;
 int main()
